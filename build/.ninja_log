@@ -1,6 +1,9 @@
 # ninja log v7
 3	40	7781133649874323	CMakeFiles/MyNeuralNet.dir/src/NeuralNetwork.cpp.obj	4523388f690b5fd2
-6	290	7781133649904249	CMakeFiles/MyNeuralNet.dir/src/main.cpp.obj	a571ff30c0aafdcd
-291	384	7781133652746641	MyNeuralNet.exe	7cf1466b3bd4f058
 6	297	7781135336497322	CMakeFiles/MyNeuralNet.dir/src/main.cpp.obj	a571ff30c0aafdcd
 298	382	7781135339409537	MyNeuralNet.exe	7cf1466b3bd4f058
+17	138	7781136644022369	build.ninja	12532cb024ae014b
+17	138	7781136644022369	C:/Users/User/NeuralNetwork/build/cmake_install.cmake	12532cb024ae014b
+24	63	7781136644491108	CMakeFiles/NeuralNetwork.dir/src/NeuralNetwork.cpp.obj	3b5865c47bad99c
+26	318	7781136644511050	CMakeFiles/NeuralNetwork.dir/src/main.cpp.obj	5da19e47172323ed
+318	402	7781136647433240	NeuralNetwork.exe	6c7c14a3c1a569f5
