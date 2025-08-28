@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\msys64\mingw64\bin\cmake.exe --regenerate-during-build -SC:\Users\User\NeuralNetworkv0.1 -BC:\Users\User\NeuralNetworkv0.1\build
+  command = C:\msys64\mingw64\bin\cmake.exe --regenerate-during-build -SC:\Users\User\NeuralNetwork -BC:\Users\User\NeuralNetwork\build
   description = Re-running CMake...
   generator = 1
 
